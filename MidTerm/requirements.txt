@@ -1,0 +1,9 @@
+chainlit==1.0.400
+cohere==4.37
+openai
+tiktoken==0.5.1
+python-dotenv==1.0.0
+PyPDF2
+llama_index
+llama-index-embeddings-openai 
+llama-index-core
